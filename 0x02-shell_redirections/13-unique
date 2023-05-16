@@ -1,2 +1,2 @@
 #!/bin/bash
-sort | into -u
+sort | uniqu -u
